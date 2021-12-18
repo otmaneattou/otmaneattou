@@ -35,10 +35,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 <br />
 <br />
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=otmattou&show_icons=true&theme=tokyonight)
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
-![otmattou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=otmattou&hide=["stars"]&show_icons=true)
+#### 
+
 
 
 📊 **This week I spent my time on**
