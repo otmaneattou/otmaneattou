@@ -47,5 +47,4 @@
 
 <br />
 <br />
-
-[linkedin] : https://www.linkedin.com/in/otmane-attou-14bb8617a/
+[linkedin]:https://www.linkedin.com/in/otmane-attou-14bb8617a/
